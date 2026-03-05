@@ -33,7 +33,7 @@ Ask your coding agent to create a diagram:
 *"Create an Excalidraw diagram showing how [your topic] works"*  
 Example: 
 *"Create an Excalidraw diagram showing how Kafka Stream API works"*  
-*"Create an Excalidraw diagram showing how Web Socket protocol works"* 
+*"Create an Excalidraw diagram showing how Web Socket protocol works"*  
 *"Create an Excalidraw diagram showing how the AG-UI protocol streams events from an AI agent to a frontend UI"*
 
 ## Outout
